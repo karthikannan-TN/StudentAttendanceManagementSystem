@@ -1,0 +1,100 @@
+12345678|student123|Aarav Sharma|Computer Science and Engineering|6|A|82.4|8.6|+919876543210|aarav.sharma@students.aurora.edu|avatar-01.jpg
+24CSE1002|student123|Ananya Reddy|Computer Science and Engineering|5|B|91.0|7.7|+919811111002|ananya.reddy@students.aurora.edu|avatar-02.jpg
+24CSE1003|student123|Vihaan Kapoor|Computer Science and Engineering|5|C|98.0|9.0|+919811111003|vihaan.kapoor@students.aurora.edu|avatar-03.jpg
+24CSE1004|student123|Ishita Verma|Computer Science and Engineering|6|A|63.0|6.9|+919811111004|ishita.verma@students.aurora.edu|avatar-04.jpg
+24CSE1005|student123|Arjun Mehta|Computer Science and Engineering|5|B|70.0|8.2|+919811111005|arjun.mehta@students.aurora.edu|avatar-05.jpg
+24CSE1006|student123|Saanvi Nair|Computer Science and Engineering|5|C|77.0|9.5|+919811111006|saanvi.nair@students.aurora.edu|avatar-06.jpg
+24CSE1007|student123|Aditya Rao|Computer Science and Engineering|6|A|84.0|7.4|+919811111007|aditya.rao@students.aurora.edu|avatar-07.jpg
+24CSE1008|student123|Kavya Iyer|Computer Science and Engineering|5|B|91.0|8.7|+919811111008|kavya.iyer@students.aurora.edu|avatar-08.jpg
+24CSE1009|student123|Rohan Malhotra|Computer Science and Engineering|5|C|98.0|6.6|+919811111009|rohan.malhotra@students.aurora.edu|avatar-09.jpg
+24CSE1010|student123|Meera Joshi|Computer Science and Engineering|6|A|63.0|7.9|+919811111010|meera.joshi@students.aurora.edu|avatar-10.jpg
+24CSE1011|student123|Yash Gupta|Computer Science and Engineering|5|B|70.0|9.2|+919811111011|yash.gupta@students.aurora.edu|avatar-11.jpg
+24CSE1012|student123|Diya Menon|Computer Science and Engineering|5|C|77.0|7.1|+919811111012|diya.menon@students.aurora.edu|avatar-12.jpg
+24CSE1013|student123|Kabir Singh|Computer Science and Engineering|6|A|84.0|8.4|+919811111013|kabir.singh@students.aurora.edu|avatar-13.jpg
+24CSE1014|student123|Aditi Kulkarni|Computer Science and Engineering|5|B|91.0|6.5|+919811111014|aditi.kulkarni@students.aurora.edu|avatar-14.jpg
+24CSE1015|student123|Reyansh Das|Computer Science and Engineering|5|C|98.0|7.8|+919811111015|reyansh.das@students.aurora.edu|avatar-15.jpg
+24CSE1016|student123|Nisha Patel|Computer Science and Engineering|6|A|63.0|9.1|+919811111016|nisha.patel@students.aurora.edu|avatar-16.jpg
+24CSE1017|student123|Aryan Chawla|Computer Science and Engineering|5|B|70.0|7.0|+919811111017|aryan.chawla@students.aurora.edu|avatar-17.jpg
+24CSE1018|student123|Priya Shah|Computer Science and Engineering|5|C|77.0|8.3|+919811111018|priya.shah@students.aurora.edu|avatar-18.jpg
+24CSE1019|student123|Dhruv Bansal|Computer Science and Engineering|6|A|84.0|6.8|+919811111019|dhruv.bansal@students.aurora.edu|avatar-19.jpg
+24CSE1020|student123|Tanya Sethi|Computer Science and Engineering|5|B|91.0|8.5|+919811111020|tanya.sethi@students.aurora.edu|avatar-20.jpg
+24CSE1021|student123|Dev Arora|Computer Science and Engineering|5|C|98.0|7.3|+919811111021|dev.arora@students.aurora.edu|avatar-21.jpg
+24CSE1022|student123|Riya Bose|Computer Science and Engineering|6|A|63.0|8.8|+919811111022|riya.bose@students.aurora.edu|avatar-22.jpg
+24CSE1023|student123|Manav Jain|Computer Science and Engineering|5|B|70.0|6.7|+919811111023|manav.jain@students.aurora.edu|avatar-23.jpg
+24CSE1024|student123|Sneha Pillai|Computer Science and Engineering|5|C|77.0|8.1|+919811111024|sneha.pillai@students.aurora.edu|avatar-24.jpg
+24CSE1025|student123|Krish Agarwal|Computer Science and Engineering|6|A|84.0|9.4|+919811111025|krish.agarwal@students.aurora.edu|avatar-25.jpg
+24CSE1026|student123|Nandini Roy|Computer Science and Engineering|5|B|91.0|7.2|+919811111026|nandini.roy@students.aurora.edu|avatar-26.jpg
+24CSE1027|student123|Siddharth Khanna|Computer Science and Engineering|5|C|98.0|8.0|+919811111027|siddharth.khanna@students.aurora.edu|avatar-27.jpg
+24CSE1028|student123|Pooja Desai|Computer Science and Engineering|6|A|63.0|6.6|+919811111028|pooja.desai@students.aurora.edu|avatar-28.jpg
+24CSE1029|student123|Karan Sood|Computer Science and Engineering|5|B|70.0|8.9|+919811111029|karan.sood@students.aurora.edu|avatar-29.jpg
+24CSE1030|student123|Ayesha Khan|Computer Science and Engineering|5|C|77.0|7.5|+919811111030|ayesha.khan@students.aurora.edu|avatar-30.jpg
+24CSE1031|student123|Ritvik Tiwari|Computer Science and Engineering|6|A|84.0|8.6|+919811111031|ritvik.tiwari@students.aurora.edu|avatar-31.jpg
+24CSE1032|student123|Shruti Sinha|Computer Science and Engineering|5|B|91.0|6.9|+919811111032|shruti.sinha@students.aurora.edu|avatar-32.jpg
+24CSE1033|student123|Neil Fernandes|Computer Science and Engineering|5|C|98.0|7.6|+919811111033|neil.fernandes@students.aurora.edu|avatar-33.jpg
+24CSE1034|student123|Maya Krishnan|Computer Science and Engineering|6|A|63.0|9.0|+919811111034|maya.krishnan@students.aurora.edu|avatar-34.jpg
+24CSE1035|student123|Harsh Vardhan|Computer Science and Engineering|5|B|70.0|7.1|+919811111035|harsh.vardhan@students.aurora.edu|avatar-35.jpg
+24CSE1036|student123|Zoya Ali|Computer Science and Engineering|5|C|77.0|8.2|+919811111036|zoya.ali@students.aurora.edu|avatar-36.jpg
+24CSE1037|student123|Ishan Pandey|Computer Science and Engineering|6|A|84.0|6.8|+919811111037|ishan.pandey@students.aurora.edu|avatar-37.jpg
+24CSE1038|student123|Anika Bhat|Computer Science and Engineering|5|B|91.0|9.3|+919811111038|anika.bhat@students.aurora.edu|avatar-38.jpg
+24CSE1039|student123|Raghav Bedi|Computer Science and Engineering|5|C|98.0|7.4|+919811111039|raghav.bedi@students.aurora.edu|avatar-39.jpg
+24CSE1040|student123|Mitali Ghosh|Computer Science and Engineering|6|A|63.0|8.7|+919811111040|mitali.ghosh@students.aurora.edu|avatar-40.jpg
+24CSE1041|student123|Varun Saxena|Computer Science and Engineering|5|B|70.0|6.5|+919811111041|varun.saxena@students.aurora.edu|avatar-41.jpg
+24CSE1042|student123|Aanya Kapoor|Computer Science and Engineering|5|C|77.0|8.4|+919811111042|aanya.kapoor@students.aurora.edu|avatar-42.jpg
+24CSE1043|student123|Samar Dutta|Computer Science and Engineering|6|A|84.0|7.0|+919811111043|samar.dutta@students.aurora.edu|avatar-43.jpg
+24CSE1044|student123|Neha Kumari|Computer Science and Engineering|5|B|91.0|9.1|+919811111044|neha.kumari@students.aurora.edu|avatar-44.jpg
+24CSE1045|student123|Pranav Batra|Computer Science and Engineering|5|C|98.0|7.7|+919811111045|pranav.batra@students.aurora.edu|avatar-45.jpg
+24CSE1046|student123|Tanvi Rao|Computer Science and Engineering|6|A|63.0|8.0|+919811111046|tanvi.rao@students.aurora.edu|avatar-46.jpg
+24CSE1047|student123|Rudra Bhatt|Computer Science and Engineering|5|B|70.0|6.9|+919811111047|rudra.bhatt@students.aurora.edu|avatar-47.jpg
+24CSE1048|student123|Siya Thomas|Computer Science and Engineering|5|C|77.0|8.8|+919811111048|siya.thomas@students.aurora.edu|avatar-48.jpg
+24CSE1049|student123|Akshay Chopra|Computer Science and Engineering|6|A|84.0|7.2|+919811111049|akshay.chopra@students.aurora.edu|avatar-49.jpg
+24CSE1050|student123|Rhea Nambiar|Computer Science and Engineering|5|B|91.0|9.2|+919811111050|rhea.nambiar@students.aurora.edu|avatar-50.jpg
+24IT1051|student123|Om Prakash|Information Technology|5|C|98.0|6.8|+919811111051|om.prakash@students.aurora.edu|avatar-51.jpg
+24IT1052|student123|Kritika Suri|Information Technology|6|A|63.0|8.5|+919811111052|kritika.suri@students.aurora.edu|avatar-52.jpg
+24IT1053|student123|Parth Mittal|Information Technology|5|B|70.0|7.3|+919811111053|parth.mittal@students.aurora.edu|avatar-53.jpg
+24IT1054|student123|Sakshi Arora|Information Technology|5|C|77.0|8.6|+919811111054|sakshi.arora@students.aurora.edu|avatar-54.jpg
+24IT1055|student123|Anirudh Nanda|Information Technology|6|A|84.0|6.6|+919811111055|anirudh.nanda@students.aurora.edu|avatar-55.jpg
+24IT1056|student123|Vaishnavi Pai|Information Technology|5|B|91.0|8.1|+919811111056|vaishnavi.pai@students.aurora.edu|avatar-56.jpg
+24ECE1057|student123|Arnav Gupta|Electronics and Communication|5|C|98.0|7.5|+919811111057|arnav.gupta@students.aurora.edu|avatar-57.jpg
+24ECE1058|student123|Bhavya Jain|Electronics and Communication|6|A|63.0|9.0|+919811111058|bhavya.jain@students.aurora.edu|avatar-58.jpg
+24ECE1059|student123|Nikhil Sethi|Electronics and Communication|5|B|70.0|7.1|+919811111059|nikhil.sethi@students.aurora.edu|avatar-59.jpg
+24ECE1060|student123|Muskan Kaur|Electronics and Communication|5|C|77.0|8.7|+919811111060|muskan.kaur@students.aurora.edu|avatar-60.jpg
+24ME1061|student123|Atharv Joshi|Mechanical Engineering|6|A|84.0|6.9|+919811111061|atharv.joshi@students.aurora.edu|avatar-61.jpg
+24ME1062|student123|Naina Yadav|Mechanical Engineering|5|B|91.0|8.4|+919811111062|naina.yadav@students.aurora.edu|avatar-62.jpg
+24ME1063|student123|Aman Srivastava|Mechanical Engineering|5|C|98.0|7.2|+919811111063|aman.srivastava@students.aurora.edu|avatar-63.jpg
+24ME1064|student123|Mansi Bansal|Mechanical Engineering|6|A|63.0|8.9|+919811111064|mansi.bansal@students.aurora.edu|avatar-64.jpg
+24MBA1065|student123|Rishabh Goel|Business Administration|5|B|70.0|6.7|+919811111065|rishabh.goel@students.aurora.edu|avatar-65.jpg
+24MBA1066|student123|Ira Mukherjee|Business Administration|5|C|77.0|8.3|+919811111066|ira.mukherjee@students.aurora.edu|avatar-66.jpg
+24MBA1067|student123|Vivaan Suri|Business Administration|6|A|84.0|7.8|+919811111067|vivaan.suri@students.aurora.edu|avatar-67.jpg
+24MBA1068|student123|Simran Gill|Business Administration|5|B|91.0|9.1|+919811111068|simran.gill@students.aurora.edu|avatar-68.jpg
+24CSE1069|student123|Sahil Anand|Computer Science and Engineering|5|C|98.0|6.5|+919811111069|sahil.anand@students.aurora.edu|avatar-69.jpg
+24CSE1070|student123|Apeksha Raut|Computer Science and Engineering|6|A|63.0|8.0|+919811111070|apeksha.raut@students.aurora.edu|avatar-70.jpg
+24CSE1071|student123|Tushar Bhatia|Computer Science and Engineering|5|B|70.0|7.4|+919811111071|tushar.bhatia@students.aurora.edu|avatar-71.jpg
+24CSE1072|student123|Ritika Das|Computer Science and Engineering|5|C|77.0|8.6|+919811111072|ritika.das@students.aurora.edu|avatar-72.jpg
+24CSE1073|student123|Kunal Shetty|Computer Science and Engineering|6|A|84.0|6.8|+919811111073|kunal.shetty@students.aurora.edu|avatar-73.jpg
+24CSE1074|student123|Aarohi Naik|Computer Science and Engineering|5|B|91.0|8.5|+919811111074|aarohi.naik@students.aurora.edu|avatar-74.jpg
+24CSE1075|student123|Mohit Arora|Computer Science and Engineering|5|C|98.0|7.0|+919811111075|mohit.arora@students.aurora.edu|avatar-75.jpg
+24CSE1076|student123|Esha Kapoor|Computer Science and Engineering|6|A|63.0|9.2|+919811111076|esha.kapoor@students.aurora.edu|avatar-76.jpg
+24CSE1077|student123|Aviral Mishra|Computer Science and Engineering|5|B|70.0|7.1|+919811111077|aviral.mishra@students.aurora.edu|avatar-77.jpg
+24CSE1078|student123|Navya Singhal|Computer Science and Engineering|5|C|77.0|8.7|+919811111078|navya.singhal@students.aurora.edu|avatar-78.jpg
+24CSE1079|student123|Gautam Goyal|Computer Science and Engineering|6|A|84.0|6.6|+919811111079|gautam.goyal@students.aurora.edu|avatar-79.jpg
+24CSE1080|student123|Jhanvi Sood|Computer Science and Engineering|5|B|91.0|8.2|+919811111080|jhanvi.sood@students.aurora.edu|avatar-80.jpg
+24CSE1081|student123|Lakshya Anand|Computer Science and Engineering|5|C|98.0|7.6|+919811111081|lakshya.anand@students.aurora.edu|avatar-81.jpg
+24CSE1082|student123|Pallavi Dey|Computer Science and Engineering|6|A|63.0|9.0|+919811111082|pallavi.dey@students.aurora.edu|avatar-82.jpg
+24CSE1083|student123|Anshuman Rathi|Computer Science and Engineering|5|B|70.0|6.9|+919811111083|anshuman.rathi@students.aurora.edu|avatar-83.jpg
+24CSE1084|student123|Nitya Nair|Computer Science and Engineering|5|C|77.0|8.4|+919811111084|nitya.nair@students.aurora.edu|avatar-84.jpg
+24CSE1085|student123|Rajat Malhotra|Computer Science and Engineering|6|A|84.0|7.3|+919811111085|rajat.malhotra@students.aurora.edu|avatar-85.jpg
+24CSE1086|student123|Kashish Gupta|Computer Science and Engineering|5|B|91.0|8.8|+919811111086|kashish.gupta@students.aurora.edu|avatar-86.jpg
+24CSE1087|student123|Sourav Ghosh|Computer Science and Engineering|5|C|98.0|6.7|+919811111087|sourav.ghosh@students.aurora.edu|avatar-87.jpg
+24CSE1088|student123|Tanya Arora|Computer Science and Engineering|6|A|63.0|8.1|+919811111088|tanya.arora@students.aurora.edu|avatar-88.jpg
+24CSE1089|student123|Rohan Shekhar|Computer Science and Engineering|5|B|70.0|7.9|+919811111089|rohan.shekhar@students.aurora.edu|avatar-89.jpg
+24CSE1090|student123|Divya Sinha|Computer Science and Engineering|5|C|77.0|9.3|+919811111090|divya.sinha@students.aurora.edu|avatar-90.jpg
+24IT1091|student123|Naveen Nair|Information Technology|6|A|84.0|6.5|+919811111091|naveen.nair@students.aurora.edu|avatar-91.jpg
+24IT1092|student123|Madhavi Iyer|Information Technology|5|B|91.0|8.6|+919811111092|madhavi.iyer@students.aurora.edu|avatar-92.jpg
+24ECE1093|student123|Chirag Jain|Electronics and Communication|5|C|98.0|7.2|+919811111093|chirag.jain@students.aurora.edu|avatar-93.jpg
+24ECE1094|student123|Sana Sheikh|Electronics and Communication|6|A|63.0|8.9|+919811111094|sana.sheikh@students.aurora.edu|avatar-94.jpg
+24ME1095|student123|Himanshu Rana|Mechanical Engineering|5|B|70.0|6.8|+919811111095|himanshu.rana@students.aurora.edu|avatar-95.jpg
+24ME1096|student123|Kaveri Shah|Mechanical Engineering|5|C|77.0|8.5|+919811111096|kaveri.shah@students.aurora.edu|avatar-96.jpg
+24MBA1097|student123|Aakash Verma|Business Administration|6|A|84.0|7.0|+919811111097|aakash.verma@students.aurora.edu|avatar-97.jpg
+24MBA1098|student123|Isha Bansal|Business Administration|5|B|91.0|9.1|+919811111098|isha.bansal@students.aurora.edu|avatar-98.jpg
+24CSE1099|student123|Abhinav Kapoor|Computer Science and Engineering|5|C|98.0|7.4|+919811111099|abhinav.kapoor@students.aurora.edu|avatar-99.jpg
+24CSE1100|student123|Reema Dutta|Computer Science and Engineering|6|A|63.0|8.7|+919811111100|reema.dutta@students.aurora.edu|avatar-100.jpg
